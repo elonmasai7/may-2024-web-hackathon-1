@@ -1,0 +1,78 @@
+### Elon Masai
+
+#### Contact Information
+- **Name:** Elon Kipng'etich Masai
+- **Birthday:** March 16, 2004
+- **Degree:** Diploma
+- **Experience:** 2 Years
+- **Phone:** +254741126228
+- **Email:** elonmasai7@gmail.com
+- **Address:** Dagoretti Corner, Nairobi, Kenya
+- **Freelance:** Available
+
+---
+
+#### About Me
+Highly innovative and results-driven Fullstack Developer with expertise in solving complex problems and a passion for innovation in tech. Skilled in creating efficient, scalable, and user-friendly applications. Excellent communication skills and proactive in teamwork. Committed to continuous learning and staying updated with emerging technologies.
+
+---
+
+#### Skills
+- **HTML & CSS:** 95%
+- **Python:** 85%
+- **Kotlin:** 90%
+- **JavaScript:** 90%
+- **MongoDB:** 95%
+- **Django:** 85%
+
+---
+
+#### Experience
+
+- **Web Developer, Nairobi City County (Attachment) | 2023 - 2023**
+  - Worked on troubleshooting and resolving technical issues in Android applications.
+  - Developed user-friendly interfaces and implemented responsive designs.
+
+- **Software Development, Spotless Niche**
+  - Conducted testing and debugging to ensure high-quality deliverables.
+  - Enhanced user experience through user-friendly interfaces and responsive designs.
+
+- **Graphic Designer, Macgraffix Kenya**
+  - Collaborated with senior designers to create stunning looks and designs.
+
+---
+
+#### Services
+
+- **Web Development**
+  - Design and build user interfaces using HTML, CSS, JavaScript frameworks.
+  - Develop interactive and responsive web experiences and integrate third-party APIs.
+
+- **Android Development**
+  - Build high-performance Android apps using Java or Kotlin.
+  - Design intuitive and user-friendly interfaces, optimize apps for performance, and implement push notifications.
+
+- **Training and Mentorship**
+  - Train individuals or teams in web and Android development.
+  - Mentor junior developers.
+
+- **DevOps and Deployment**
+  - Configure and manage cloud hosting environments.
+  - Implement continuous integration and continuous delivery (CI/CD) pipelines.
+
+---
+
+#### Testimonials
+
+- **Evans Wakobi, Businessman**
+  - "Elon single-handedly built our entire web application. His ability to work across both frontend and backend saved us time and resources. He's a valuable asset."
+
+- **Martha Ayabei, Teacher**
+  - "Elon developed our educational app, combining technical expertise with creative problem-solving. He created an engaging learning experience for children."
+
+- **Michael Brown, CEO Cloudify**
+  - "Elon delivered a complex, data-driven application efficiently. His expertise in web and mobile technologies created a scalable and secure solution. He's an exceptional developer."
+
+---
+
+For more information, please visit my [personal website](https://masaielon.netlify.app/).
